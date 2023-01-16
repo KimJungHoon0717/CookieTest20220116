@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>쿠키확인</title>
+<title>쿠키확인!</title>
 </head>
 <body>
 <%
